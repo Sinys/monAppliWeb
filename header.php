@@ -59,4 +59,8 @@
       Nous contacter</a> 
       </li> 
     </ul> 
+<<<<<<< HEAD
   </div>
+=======
+  </div> 
+>>>>>>> testing
